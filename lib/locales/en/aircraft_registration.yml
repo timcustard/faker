@@ -1,0 +1,105 @@
+en:
+  faker:
+    aircraft_registration:
+      afghanistan:
+        - /YA-[A-Z]{3}/
+      albania:
+        - /ZA-[A-Z]{3}/
+      algeria:
+        - /7T-[V|W][A-Z]{2}/
+      andorra:
+        - /C3-[A-Z]{3}/
+      angola:
+        - /D2-[A-Z]{3}/
+      anguilla:
+        - /VP-A[A-Z]{2}/
+      antigua_and_barbuda:
+        - /V2-[A-Z]{3}/
+      argentina:
+        - /L[QV]-[A-Z]{3}/
+      armenia:
+        - /EK-[1-9]\d{4}/
+      aruba:
+        - /P4-[A-Z]{3}/
+      australia:
+        - /VH-[A-Z]{3}/
+      austria:
+        - /OE-[A-LVWX][A-Z]{2}/
+      azerbaijan:
+        - /4K-AZ[1-9]\d{0,2}/
+        - /4K-[1-9]\d{4}/
+      bahamas:
+        - /C6-[A-Z]{3}/
+      bahrain:
+        - /A9C-[A-Z]{2}
+      bangladesh:
+        - /S2-[A-Z]{3}/
+      barbados:
+        - /8P-[A-Z]{3}/
+      belarus:
+        - /EW-[1-9]\d{4}/
+        - /EW-[1-9]\d{2}[A-Z]{2}/
+      belgium:
+        - /OO-[A-PR-Z][A-Z]{2}
+      belize:
+        - /V3-[A-Z]{3}/
+      benin:
+        - /TY-[A-Z]{3}/
+      bermuda:
+        - /V[PQ]-B[A-Z]{2}
+      bhutan:
+        - /A5-[A-Z]{3}/
+      bolivia:
+        - /CP-[1-9]\d{3}/
+      bosnia_and_herzegovina:
+        - /(T9|E7)-[A-Z]{3}/
+      botswana:
+        - /A2-[A-Z]{3}/
+      brazil:
+        - /P[PRSTU]-[A-Z]{3}/
+      british_virgin_islands:
+        - /VP-L[A-Z]{2}/
+      brunei:
+        - /V8-[A-Z]{3}
+        - /V8-[A-Z]{2}[1-9]
+      bulgaria:
+        - /LZ-[A-Z]{3}/
+      burkina_faso:
+        - /XT-[A-Z]{3}/
+      burundi:
+        - /9U-[A-Z]{3}/
+      cambodia:
+        - /XU-[A-Z]{3}/
+      cameroon:
+        - /TJ-[A-Z]{3}/
+      canada:
+        - /C-[FGI][A-Z]{3}/
+      cape_verde:
+        - /D4-[A-Z]{3}/
+      cayman_islands:
+        - /VP-C[A-Z]{2}/
+      central_african_republic:
+        - /TL-[A-Z]{3}/
+      chad:
+        - /TT-[A-Z]{3}/
+      chile:
+        - /CC-[A-Z]{3}/
+      china:
+        - /B-\d{2}(\d{2}|[A-Z]{2})/
+      colombia:
+        - /H[JK]-[1-9]\d{3}[A-Z]/
+      comoros:
+        - /D6-[A-Z]{3}/
+      republic_of_the_congo:
+        - /TN-[A-Z]{3}/
+      cook_islands:
+        - /E5-[A-Z]{3}/
+      democratic_republic_of_the_congo:
+        - /9[SQ]-[A-Z]{3}/
+      costa_rica:
+        - /TI-[A-Z]{3}/
+        - /TI-\d{3}/
+      uk:
+        - /G-[A-Z]{4}/
+      usa:
+        - /N[1-9]\d{0,4}[A-Z]{0,2}/
